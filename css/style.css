@@ -8,3 +8,11 @@ header h1 {
     margin: 0 auto;
   }
   
+  #about img {
+    border: 3px solid #2c2c2c;
+  }
+  
+  #about h2, #about h4 {
+    color: #1a1a1a;
+  }
+  
