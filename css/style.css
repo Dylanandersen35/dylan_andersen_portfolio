@@ -23,4 +23,9 @@ header h1 {
   .card-text {
     font-size: 0.95rem;
   }
+
+  #resume iframe {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
   
