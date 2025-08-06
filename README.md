@@ -10,7 +10,7 @@ Hi, and welcome to my personal website! This site gives a snapshot of who I am, 
 
 ## Usage
 
-Visit the live site [here](https://dylanandersen.dev) to explore what I’ve been up to, and see how I think through design, development, and storytelling.
+Visit the live site [here](https://dylanandersen35.github.io/dylan_andersen_portfolio/) to explore what I’ve been up to, and see how I think through design, development, and storytelling.
 
 ## Contact
 
